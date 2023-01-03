@@ -1,3 +1,19 @@
+/*
+This is the C++ Calibration project.
+In it, I practice several coding fundamentals. It's a scale model for my future endeavors!
+Fundamentals practiced:
+Variable declaration / assignment
+Swapping variable values
+File input
+Performing operations on variables
+Console input and output
+Typecasting
+
+*/
+
+
+//Published to GitHub!!!
+
 #include <stdio.h>
 #include <iostream>
 #include <fstream>
