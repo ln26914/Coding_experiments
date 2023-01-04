@@ -87,5 +87,5 @@ int main() {
 
     cout << endl;
 
-
+    fin.close();
 }
